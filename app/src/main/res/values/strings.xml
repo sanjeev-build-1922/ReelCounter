@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">REEL // COUNTER</string>
+    <string name="accessibility_service_label">ReelCounter Doom-Scroll Tracker</string>
+    <string name="accessibility_service_description">Monitors vertical reel and short-form video swipes in Instagram Reels and YouTube Shorts to provide real-time consumption telemetry and a minimal floating dot-matrix HUD.</string>
+    <string name="hud_notification_channel_name">Floating HUD Telemetry</string>
+    <string name="hud_notification_channel_desc">Keeps the minimal dot-matrix ReelCounter overlay active while browsing short-form video apps.</string>
+    <string name="widget_name">REEL // COUNTER Widget</string>
+    <string name="widget_description">Minimal Nothing-inspired dot-matrix counter for today\'s Reels and Shorts.</string>
+</resources>
